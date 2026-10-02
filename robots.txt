@@ -3,4 +3,4 @@ Allow: /
 Disallow: /dashboard
 Disallow: /teacher
 Disallow: /student/result
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://eresultsng.netlify.app/sitemap.xml
